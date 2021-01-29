@@ -1,0 +1,4 @@
+Django==2.2.10
+djangorestframework
+python_dotenv
+psycopg2
